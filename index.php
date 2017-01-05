@@ -10,7 +10,7 @@
     <link rel="stylesheet" type="text/css" href="style.css">
     <script src="funcao.js"></script>
 </head>
-
+<!-- comentário -->
 <body>
     <div id="inicio">
         <form method="POST">
